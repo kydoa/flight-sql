@@ -1,0 +1,2 @@
+# Force SQL to be counted as code, not data
+*.sql linguist-language=SQL linguist-detectable=true
